@@ -170,9 +170,8 @@ Feel free to reach out or collaborate—I’m always eager to connect and innova
 
 ---
 
-## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/mammonbaloch/)
-- [Forbes Technology Council](https://councils.forbes.com/profile/Mammon-Baloch-CEO-Starlight-Retail-Inc/6b40f2c5-fbd0-4109-a729-a05b5ea23cbf)
+
+
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/mammonbaloch/)
 - [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/starlightretailceo)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/17a71dae-9e46-4aae-9cc5-a0fcf4abfbab)
